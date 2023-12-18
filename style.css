@@ -285,7 +285,7 @@ nav ul li a:hover::after{
     padding: 8% 7%;
 }
 #portfolio .sub-title{
-    margin-top: 10px;
+    margin-top: 30px;
 }
 .work-list{
         display: grid;
