@@ -238,7 +238,7 @@ nav ul li a:hover::after{
     background-image: url(images/bg.png);
 }
 #services .sub-title {
-    margin-top: -20px;
+    margin-top: 20px;
     margin-bottom: 30px;
     color: #fff;
    }
@@ -285,7 +285,7 @@ nav ul li a:hover::after{
     padding: 8% 7%;
 }
 #portfolio .sub-title{
-    margin-top: 30px;
+    margin-top: -20px;
 }
 .work-list{
         display: grid;
