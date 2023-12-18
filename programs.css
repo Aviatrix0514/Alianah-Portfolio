@@ -139,3 +139,23 @@ body {
     background: #ababab;
     color: #fff;
 }
+@media screen and (max-width: 768px) {
+    .container {
+        width: 100%;
+        height: 100%;
+        overflow-x: scroll; /* Enable horizontal scrolling */
+        overflow-y: scroll; /* Enable vertical scrolling */
+    }
+
+    .container .slide {
+        display: flex; /* Enable flex layout */
+        flex-wrap: wrap; /* Wrap items within the container */
+        gap: 20px; /* Space between items */
+        padding: 20px; /* Padding for the container */
+    }
+
+    .container .slide .item {
+        width: calc(50% - 20px); /* Two items per row with spacing */
+        margin-bottom: 20px; /* Space between rows */
+    }
+}
