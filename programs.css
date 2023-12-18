@@ -139,12 +139,22 @@ body {
     background: #ababab;
     color: #fff;
 }
+
+/* Your existing styles */
+
+/* Media query for smaller screens */
 @media screen and (max-width: 768px) {
     .container {
         width: 100%;
         height: 100%;
         overflow-x: scroll; /* Enable horizontal scrolling */
         overflow-y: scroll; /* Enable vertical scrolling */
+    }
+    .name{
+        margin-left: -80px;
+    }
+    .des{
+        margin-left: -80px;
     }
 
     .container .slide {
