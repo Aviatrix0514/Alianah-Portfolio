@@ -283,7 +283,9 @@ nav ul li a:hover::after{
 #portfolio{
     padding: 8% 7%;
 }
-
+#portfolio .sub-title{
+    margin-top: -20px;
+}
 .work-list{
         display: grid;
         grid-template-columns: repeat(auto-fit, minmax(250px, 1fr));
