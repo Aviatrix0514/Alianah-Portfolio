@@ -238,6 +238,7 @@ nav ul li a:hover::after{
     background-image: url(images/bg.png);
 }
 .sub-title {
+    margin-top: 50px;
     margin-bottom: 30px;
     color: #fff;
    }
