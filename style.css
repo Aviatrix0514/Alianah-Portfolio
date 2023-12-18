@@ -238,6 +238,7 @@ nav ul li a:hover::after{
     background-image: url(images/bg.png);
 }
 .sub-title {
+    margin-top: 30px;
     margin-bottom: 30px;
     color: #fff;
    }
@@ -245,7 +246,7 @@ nav ul li a:hover::after{
     display: grid;
     grid-template-columns: repeat(auto-fit, minmax(250px, 1fr));
     grid-gap: 40px;
-    margin-top: 50px;
+    margin-top: 20px;
 }
 .services-list div{
     background: #080808;
