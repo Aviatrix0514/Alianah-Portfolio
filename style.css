@@ -164,7 +164,7 @@ nav ul li a:hover::after{
     background: #080808;
 }
 #about .sub-title{
-    margin-bottom: 20px;
+    margin-bottom: 50px;
 }
 .row{
     display: flex;
