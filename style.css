@@ -234,11 +234,10 @@ nav ul li a:hover::after{
 }
 /*----------------------services--------------------------*/
 #services{
-    padding: 7% 7%;;
+    padding: 7% 8%;;
     background-image: url(images/bg.png);
 }
 .sub-title {
-    margin-top: 80px;
     margin-bottom: 30px;
     color: #fff;
    }
